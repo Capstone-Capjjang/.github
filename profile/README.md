@@ -64,6 +64,7 @@ A fun feature where users can perform choreography alongside a 3D virtual idol c
 <br>
 
 ## 🖥 Demo video
+https://www.youtube.com/watch?v=pJ5MnXdGwvk
 
 <br>
 
