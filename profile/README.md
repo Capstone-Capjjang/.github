@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=pJ5MnXdGwvk
 ## 📱 How to install
 
 - Android: https://github.com/Capstone-Capjjang/DANZLE-FE
-- Server: https://github.com/sohee6989/CapstoneProject_Capjjang/tree/Server
+- Server: https://github.com/Capstone-Capjjang/DANZLE-BE
 
 <br>
 
