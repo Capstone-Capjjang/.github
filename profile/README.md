@@ -74,7 +74,7 @@ A fun feature where users can perform choreography alongside a 3D virtual idol c
 
 ## 📱 How to install
 
-- Android: https://github.com/sohee6989/CapstoneProject_Capjjang/tree/Android
+- Android: https://github.com/Capstone-Capjjang/DANZLE-FE
 - Server: https://github.com/sohee6989/CapstoneProject_Capjjang/tree/Server
 
 <br>
